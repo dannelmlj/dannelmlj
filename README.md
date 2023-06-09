@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dannel Mulja
-- 🏫 I'm currently a junior in [City University of Hong Kong](cs.cityu.edu.hk) studying Computer Science.
+- 🏫 I'm currently a junior in [City University of Hong Kong](https://www.cs.cityu.edu.hk) studying Computer Science.
 - 👀 I’m interested in Computational Finance, High-Frequency Trading Platform, Low-Latency Trading, and Algorithmic Trading Development 
-- 🌱 I’m currently working on [Deploifai](deploif.ai), an ML Cloud Infrastructure Automation Platform
+- 🌱 I’m currently working on [Deploifai](https://www.deploif.ai), an ML Cloud Infrastructure Automation Platform
 - 📫 How to reach me: dannelmuljaa@gmail.com
 
 <!---
